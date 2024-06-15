@@ -24,7 +24,7 @@ En tessdata es donde  descargaremos e instalaremos los distintos lenguajes enytr
 
 Puedes instalar las dependencias necesarias usando pip:
 
-Debes ejecutar CMD para luego escribir lo siguiente:
+1. Debes ejecutar CMD para luego escribir lo siguiente:
 
 pip install pytesseract
 
